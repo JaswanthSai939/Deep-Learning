@@ -1,0 +1,6 @@
+train: C:\\Users\\sai jaswanth\\Desktop\\Semester-5_Projects\\deep learning\\RealTimeSurveillance\\dataset\\train\\images
+val: C:\\Users\\sai jaswanth\\Desktop\\Semester-5_Projects\\deep learning\\RealTimeSurveillance\\dataset\\valid\\images
+test: C:\\Users\\sai jaswanth\\Desktop\\Semester-5_Projects\\deep learning\\RealTimeSurveillance\\dataset\\test\\images
+
+nc: 1  # Number of classes (in this case, handguns)
+names: ['handgun']  # Class name
